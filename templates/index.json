@@ -103,16 +103,17 @@
         "item_J7a6Pt": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/mosaic-2_cd16a1be-f1e7-4617-a17e-f07e0807e565.png",
             "show_overlay": false,
-            "overlay_opacity": 50,
+            "overlay_opacity": 100,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "title": "",
+            "content": "",
             "content_position": "top_left",
             "button_background": "#4f5558",
             "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
+            "button_text": "",
             "link": ""
           }
         },

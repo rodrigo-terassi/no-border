@@ -88,7 +88,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/mosaic-1_b6bd652e-0dd5-4700-b057-f5fceb25cd2d.png",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_opacity": 100,
             "background": "#f3f4f4",
             "text_color": "#4f5558",

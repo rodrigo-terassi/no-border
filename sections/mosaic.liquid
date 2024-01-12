@@ -79,7 +79,39 @@
 
     <div class="mosaic mosaic--{{ section.settings.section_size }} mosaic--{% if section.blocks.size == 1 %}one-column{% elsif section.blocks.size == 2 %}two-columns{% else %}three-columns{% endif %}">
       {%- case section.blocks.size -%}
-        
+        {%- when 1 or '1' -%}
+          <div class="mosaic__column">
+            {{ block_1 }}
+          </div>
+        {%- when 2 -%}
+          <div class="mosaic__column">
+            {{ block_1 }}
+          </div>
+
+          <div class="mosaic__column">
+            {{ block_2 }}
+          </div>
+
+        {%- when 3 -%}
+          <div class="mosaic__column">
+            {{ block_1 }}
+          </div>
+
+          <div class="mosaic__column">
+            {{ block_2 }}
+            {{ block_3 }}
+          </div>
+
+        {%- when 4 -%}
+          <div class="mosaic__column">
+            {{ block_1 }}
+          </div>
+
+          <div class="mosaic__column">
+            {{ block_2 }}
+            {{ block_3 }}
+            {{ block_4 }}
+          </div>
       {%- endcase -%}
     </div>
   </div>

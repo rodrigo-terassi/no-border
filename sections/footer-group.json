@@ -1,1 +1,81 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"item-1":{"type":"item","settings":{"icon":"bi-delivery","title":"Free shipping","content":"<p>Frete grátis a partir de 199,00 nas suas compras<\/p>"}},"item-2":{"type":"item","settings":{"icon":"bi-returns","title":"Satisfied or refunded","content":"<p>Short content about your store<\/p>"}},"item-3":{"type":"item","settings":{"icon":"bi-customer-support","title":"Top-notch support","content":"<p>Short content about your store<\/p>"}},"item-4":{"type":"item","settings":{"icon":"bi-secure-payment","title":"Secure payments","content":"<p>Short content about your store<\/p>"}}},"block_order":["item-1","item-2","item-3","item-4"],"settings":{"stack_mobile":false}},"footer":{"type":"footer","blocks":{"footer-1":{"type":"links","settings":{"menu":"footer"}},"05b7ad9d-44e3-4bf4-820b-9aef887992c6":{"type":"links","settings":{"menu":"main-menu"}},"8b59c01d-53c0-487d-81d4-5952184ee903":{"type":"links","settings":{"menu":"especiais"}},"dcb1aeee-35c7-4a8b-83fb-020b58f6da4a":{"type":"text","settings":{"title":"Informações","content":"<p>Fontoura Xavier - RS, CEP 99370-000<\/p><p>e-mail: <a href=\"mailto:info@mvshop.com.br\" target=\"_blank\" title=\"info@mvshop.com.br\">info@mvshop.com.br<\/a><\/p><p>Telefone: <a href=\"tel:54981158985\" target=\"_blank\" title=\"54-98115-8985\">54-98115-8985<\/a><\/p>"}},"footer-2":{"type":"newsletter","settings":{"title":"Newsletter","subheading":"<p>Inscreva-se e receba as novidades do MVSHOP<\/p>"}},"370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3":{"type":"text","settings":{"title":"Todos os direitos reservados","content":"<p>Mundo Verde Com e Serv de Produtos Socioambientais Ltda.<\/p>"}},"f9be9eb0-c188-4753-b64e-3de2cfe110f3":{"type":"slide","settings":{"selo":"shopify:\/\/shop_images\/selo_mundo_verde_web.png"}},"7bbddf65-9044-47fe-87ee-5f971d013620":{"type":"links","settings":{"menu":""}}},"block_order":["footer-1","05b7ad9d-44e3-4bf4-820b-9aef887992c6","8b59c01d-53c0-487d-81d4-5952184ee903","dcb1aeee-35c7-4a8b-83fb-020b58f6da4a","footer-2","370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3","f9be9eb0-c188-4753-b64e-3de2cfe110f3","7bbddf65-9044-47fe-87ee-5f971d013620"],"settings":{"show_social_media":true,"enable_follow_on_shop":true,"show_payment_icons":true,"show_locale_selector":true,"show_country_selector":true}}},"order":["text-with-icons","footer"]}
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-1": {
+          "type": "links",
+          "settings": {
+            "menu": "footer"
+          }
+        },
+        "05b7ad9d-44e3-4bf4-820b-9aef887992c6": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu"
+          }
+        },
+        "8b59c01d-53c0-487d-81d4-5952184ee903": {
+          "type": "links",
+          "settings": {
+            "menu": ""
+          }
+        },
+        "dcb1aeee-35c7-4a8b-83fb-020b58f6da4a": {
+          "type": "text",
+          "settings": {
+            "title": "Informações",
+            "content": "<p>Fontoura Xavier - RS, CEP 99370-000<\/p><p>e-mail: <a href=\"mailto:info@mvshop.com.br\" target=\"_blank\" title=\"info@mvshop.com.br\">info@mvshop.com.br<\/a><\/p><p>Telefone: <a href=\"tel:54981158985\" target=\"_blank\" title=\"54-98115-8985\">54-98115-8985<\/a><\/p>"
+          }
+        },
+        "footer-2": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "subheading": "<p>Inscreva-se e receba as novidades do MVSHOP<\/p>"
+          }
+        },
+        "370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3": {
+          "type": "text",
+          "settings": {
+            "title": "Todos os direitos reservados",
+            "content": "<p>Mundo Verde Com e Serv de Produtos Socioambientais Ltda.<\/p>"
+          }
+        },
+        "f9be9eb0-c188-4753-b64e-3de2cfe110f3": {
+          "type": "slide",
+          "settings": {
+          }
+        },
+        "7bbddf65-9044-47fe-87ee-5f971d013620": {
+          "type": "links",
+          "settings": {
+            "menu": ""
+          }
+        }
+      },
+      "block_order": [
+        "footer-1",
+        "05b7ad9d-44e3-4bf4-820b-9aef887992c6",
+        "8b59c01d-53c0-487d-81d4-5952184ee903",
+        "dcb1aeee-35c7-4a8b-83fb-020b58f6da4a",
+        "footer-2",
+        "370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3",
+        "f9be9eb0-c188-4753-b64e-3de2cfe110f3",
+        "7bbddf65-9044-47fe-87ee-5f971d013620"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "enable_follow_on_shop": true,
+        "show_payment_icons": true,
+        "show_locale_selector": true,
+        "show_country_selector": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

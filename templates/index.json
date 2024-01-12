@@ -38,32 +38,36 @@
           "type": "item",
           "settings": {
             "icon": "bi-delivery",
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store<\/p>"
+            "custom_icon": "shopify:\/\/shop_images\/frete-gratis.png",
+            "title": "Frete Grátis",
+            "content": "<p>para a cidade de São Paulo e região metropolitana • acima de R$ 380<\/p>"
           }
         },
         "item_qrNQwn": {
           "type": "item",
           "settings": {
             "icon": "bi-returns",
-            "title": "Satisfied or refunded",
-            "content": "<p>Short content about your store<\/p>"
+            "custom_icon": "shopify:\/\/shop_images\/promo.png",
+            "title": "4% de desconto à vista",
+            "content": "<p>via boleto bancário ou transferência bancária Itaú.<\/p>"
           }
         },
         "item_bVVPE8": {
           "type": "item",
           "settings": {
             "icon": "bi-customer-support",
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store<\/p>"
+            "custom_icon": "shopify:\/\/shop_images\/cartao.png",
+            "title": "Pague em até 3x",
+            "content": "<p>sem juros nos cartões de crédito, com parcela mínima de R$ 150.<\/p>"
           }
         },
         "item_UPJUr3": {
           "type": "item",
           "settings": {
             "icon": "bi-secure-payment",
-            "title": "Secure payments",
-            "content": "<p>Short content about your store<\/p>"
+            "custom_icon": "shopify:\/\/shop_images\/calendar.png",
+            "title": "Troque em até 30 dias*",
+            "content": "<p>30 (trinta) dias corridos contados da solicitação feita.<\/p>"
           }
         }
       },

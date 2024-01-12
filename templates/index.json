@@ -81,10 +81,10 @@
         "stack_mobile": false
       }
     },
-    "mosaic_jAd7Ww": {
+    "mosaic_GgbdmT": {
       "type": "mosaic",
       "blocks": {
-        "item_DVE3eD": {
+        "item_bptPeG": {
           "type": "item",
           "settings": {
             "show_overlay": false,
@@ -100,7 +100,7 @@
             "link": ""
           }
         },
-        "item_W39MKw": {
+        "item_J7a6Pt": {
           "type": "item",
           "settings": {
             "show_overlay": false,
@@ -116,7 +116,7 @@
             "link": ""
           }
         },
-        "item_LtMr3k": {
+        "item_GetDnz": {
           "type": "item",
           "settings": {
             "show_overlay": false,
@@ -132,23 +132,7 @@
             "link": ""
           }
         },
-        "item_YNy68K": {
-          "type": "item",
-          "settings": {
-            "show_overlay": false,
-            "overlay_opacity": 50,
-            "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
-            "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
-          }
-        },
-        "item_BBC9EM": {
+        "item_TVEzLx": {
           "type": "item",
           "settings": {
             "show_overlay": false,
@@ -166,11 +150,10 @@
         }
       },
       "block_order": [
-        "item_DVE3eD",
-        "item_W39MKw",
-        "item_LtMr3k",
-        "item_YNy68K",
-        "item_BBC9EM"
+        "item_bptPeG",
+        "item_J7a6Pt",
+        "item_GetDnz",
+        "item_TVEzLx"
       ],
       "settings": {
         "section_size": "medium"
@@ -403,7 +386,7 @@
   "order": [
     "slideshow",
     "text_with_icons_FLTWhp",
-    "mosaic_jAd7Ww",
+    "mosaic_GgbdmT",
     "collection-list",
     "featured-collection",
     "featured-product",

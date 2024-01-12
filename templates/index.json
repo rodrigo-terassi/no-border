@@ -138,16 +138,17 @@
         "item_TVEzLx": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/mosaic-4.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "title": "",
+            "content": "",
             "content_position": "top_left",
             "button_background": "#4f5558",
             "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
+            "button_text": "",
             "link": ""
           }
         }

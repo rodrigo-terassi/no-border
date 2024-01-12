@@ -6785,11 +6785,6 @@ select option {
   .mosaic--two-columns .mosaic__column:first-child {
     flex-grow: 1.38;
   }
-
-  /* In this configuration the second column is twice as large as others */
-  .mosaic--three-columns .mosaic__column:nth-child(2) {
-    flex-grow: 1.38;
-  }
 }
 /**
  * --------------------------------------------------------------------

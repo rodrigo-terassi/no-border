@@ -87,16 +87,17 @@
         "item_bptPeG": {
           "type": "item",
           "settings": {
-            "show_overlay": false,
-            "overlay_opacity": 50,
+            "image": "shopify:\/\/shop_images\/mosaic-1_b6bd652e-0dd5-4700-b057-f5fceb25cd2d.png",
+            "show_overlay": true,
+            "overlay_opacity": 100,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "title": "",
+            "content": "",
             "content_position": "top_left",
             "button_background": "#4f5558",
             "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
+            "button_text": "",
             "link": ""
           }
         },

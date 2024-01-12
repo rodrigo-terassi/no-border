@@ -1,11 +1,11 @@
 {
   "current": {
-    "heading_color": "#f1ede5",
-    "text_color": "#677279",
+    "heading_color": "#222222",
+    "text_color": "#928a79",
     "accent_color": "#fc481e",
     "link_color": "#fc481e",
     "border_color": "#f3f5f6",
-    "background": "#f3f5f6",
+    "background": "#ffffff",
     "secondary_background": "#ffffff",
     "error_color": "#ff0000",
     "success_color": "#00aa00",

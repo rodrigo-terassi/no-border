@@ -13626,6 +13626,9 @@ shopify-payment-terms {
   transform: scale(1);
 }
 
+.d-flex{
+  display: flex;
+}
 @supports (padding: max(0px)) {
   .value-picker__choice-list {
     max-height: calc(430px + env(safe-area-inset-bottom, 0px) + 15px);

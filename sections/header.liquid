@@ -333,6 +333,10 @@
                   {%- capture index -%}desktop-menu-0-{{ forloop.index }}{%- endcapture -%}
 
                   <a href="{{ link.url }}" class="nav-bar__link link" data-type="menuitem" aria-expanded="false" aria-controls="{{ index }}" aria-haspopup="true">
+                    {%- assign menu_icon = collection.metafields.custom.menu_icon -%}
+                    
+                    {{ menu_icon | img_tag }}
+                  
                     {{- link.title -}}
                     {%- render 'icon', icon: 'arrow-bottom' -%}
                     {%- render 'icon', icon: 'nav-triangle' -%}

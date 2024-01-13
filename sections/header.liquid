@@ -330,7 +330,7 @@
                 {%- if link.links.size == 0 -%}
                   <a href="{{ link.url }}" class="nav-bar__link link" data-type="menuitem">
                     {%- assign menu_icon = collection.metafields.custom.menu_icon -%}
-                    
+                    {{ link.collection.metafields.custom.menu_icon | img_tag }}
                     {%- if menu_icon -%}
                       {{ menu_icon | img_tag }}
                     {%- endif -%}

@@ -5607,7 +5607,7 @@ select option {
 
 @media screen and (min-width: 641px) {
   .header {
-    padding: 5px 0;
+    padding: 10px 0;
   }
 
   .header__inner {

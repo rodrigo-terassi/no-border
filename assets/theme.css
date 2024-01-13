@@ -5529,6 +5529,12 @@ select option {
   display: flex;
 }
 
+.header__account,
+.header__help{
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+}
 
 .header .icon--account,
 .header .icon--hamburger,

@@ -5693,8 +5693,10 @@ select option {
 .header__cart-count {
   display: inline-flex;
   position: absolute;
-  right: -14px;
-  top: -7px;
+  left: calc(100% + 10px);
+  top: 0;
+  bottom: 0;
+  margin: auto;
   align-items: center;
   justify-content: center;
   height: 20px;
@@ -5706,7 +5708,7 @@ select option {
   background: var(--header-accent-color);
   color: var(--secondary-background);
   border-radius: 1.75em;
-  transition: transform 0.35s ease-in-out;
+  transition: transform .35s ease-in-out;
   will-change: transform;
   transform: scale(1.01);
   z-index: 1;

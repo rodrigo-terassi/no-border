@@ -163,93 +163,6 @@
         "section_size": "medium"
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "e7611c3f-f787-480d-832c-202208a13c42": {
-          "type": "collection",
-          "settings": {
-            "collection": "moveis-e-decoracao",
-            "link": ""
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "link": ""
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "colecao-002",
-            "link": ""
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "esporte-e-lazer",
-            "link": ""
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "saude-e-bem-estar",
-            "link": ""
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "collection": "iluminacao-led-1",
-            "link": ""
-          }
-        },
-        "b6b26af2-6bb4-45a1-b2b5-192f10e828cb": {
-          "type": "collection",
-          "settings": {
-            "collection": "tecnologia",
-            "link": ""
-          }
-        },
-        "e1b5e5f9-b17c-459f-9bb3-b2c63e31336e": {
-          "type": "collection",
-          "settings": {
-            "collection": "ferramentas",
-            "link": ""
-          }
-        },
-        "2c1f6e22-5998-475b-bd35-34c6748093b1": {
-          "type": "collection",
-          "settings": {
-            "collection": "relogios-e-joias",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "e7611c3f-f787-480d-832c-202208a13c42",
-        "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6",
-        "b6b26af2-6bb4-45a1-b2b5-192f10e828cb",
-        "e1b5e5f9-b17c-459f-9bb3-b2c63e31336e",
-        "2c1f6e22-5998-475b-bd35-34c6748093b1"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Shop Our Collections",
-        "link_title": "View all",
-        "link": "shopify:\/\/collections",
-        "round_images": false,
-        "show_collection_title": true
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -391,7 +304,6 @@
     "slideshow",
     "text_with_icons_FLTWhp",
     "mosaic_GgbdmT",
-    "collection-list",
     "featured-collection",
     "featured-product",
     "640917ca-c89c-43d2-8beb-c8185f25db3c",

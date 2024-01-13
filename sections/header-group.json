@@ -5,9 +5,9 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "background": "#205a54",
-        "text_color": "#abd117",
-        "text": "Compre e receba seu produto em qualquer parte do MUNDO via FEDEX em uma Semana!",
+        "background": "#4c6031",
+        "text_color": "#ffffff",
+        "text": "Frete Grátis acima de R$ 380 • Para São Paulo\/SP e Região Metropolitana",
         "text_position": "center",
         "link": "",
         "show_newsletter": false,

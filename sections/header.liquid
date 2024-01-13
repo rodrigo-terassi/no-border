@@ -324,15 +324,7 @@
     <nav class="nav-bar">
       <div class="nav-bar__inner">
         <div class="container">
-          <ul class="nav-bar__linklist list--unstyled" data-type="menu" role="list">
-            {%- for link in navigation_menu -%}
-              {%- assign menu_icon = collection.metafields.custom.menu_icon -%}
-                    
-              {%- if menu_icon -%}
-                {{ menu_icon | img_tag }}
-              {%- endif -%}
-            {%- endfor -%}
-    
+          <ul class="nav-bar__linklist list--unstyled" data-type="menu" role="list">    
             {%- for link in navigation_menu.links -%}
               <li class="nav-bar__item">
                 {%- if link.links.size == 0 -%}

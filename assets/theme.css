@@ -5709,8 +5709,8 @@ select option {
   width: 19px;
   position: absolute;
   left: 0;
-  top: -5px;
-  bottom: -5px;
+  top: -10px;
+  bottom: -10px;
 }
 .header__cart-icon {
   margin-left: -2px;

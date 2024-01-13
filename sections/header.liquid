@@ -330,7 +330,7 @@
                 {%- if link.links.size == 0 -%}
                   <a href="{{ link.url }}" class="nav-bar__link link" data-type="menuitem">{{ link.title }}</a>
                 {%- else -%}
-                  
+                  {%- capture index -%}desktop-menu-0-{{ forloop.index }}{%- endcapture -%}
 
                   <a href="{{ link.url }}" class="nav-bar__link link" data-type="menuitem" aria-expanded="false" aria-controls="{{ index }}" aria-haspopup="true">                  
                     {%- assign menu_icon = collection.metafields.custom.menu_icon -%}

@@ -5687,7 +5687,16 @@ select option {
 .header__action-item .icon--lock-2 + span {
   margin-left: 14px;
 }
-
+.header__action-item--cart:before {
+    content: '';
+    opacity: 0.15;
+    background-image: linear-gradient(270deg, rgba(146,138,121,0) 0%, #928A79 100%);
+    width: 19px;
+    position: absolute;
+    left: 0;
+    top: -22px;
+    bottom: -22px;
+}
 .header__cart-icon {
   margin-left: -2px;
 }

@@ -1125,7 +1125,8 @@ body:not(.is-tabbing) textarea:focus {
 }
 
 .container {
-  max-width: 1480px;
+  /* max-width: 1480px; */
+  max-width: 1140px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 var(--mobile-container-gutter);

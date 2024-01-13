@@ -7229,7 +7229,8 @@ select option {
   }
   
   .nav-bar__link {
-    display: block;
+    display: flex;
+    align-items: center;
     cursor: pointer;
   }
 

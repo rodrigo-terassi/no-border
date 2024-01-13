@@ -11168,7 +11168,8 @@ shopify-payment-terms {
   }
 
   .text-with-icons__icon-wrapper {
-    margin: 0.5em 18px 0 0;
+    margin: 0;
+    margin-bottom: 10px;
   }
 }
 

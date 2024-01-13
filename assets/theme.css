@@ -11179,7 +11179,7 @@ shopify-payment-terms {
   }
 
   .text-with-icons__item {
-    display: flex;
+    display: block;
     flex-basis: calc(50% - 140px);
   }
 }

@@ -335,7 +335,7 @@
                       {{ menu_icon | img_tag }}
                     {%- endif -%}
                     
-                    {{ link.title }}
+                    <span>{{ link.title }}</span>
                   </a>
                 {%- else -%}
                   {%- capture index -%}desktop-menu-0-{{ forloop.index }}{%- endcapture -%}

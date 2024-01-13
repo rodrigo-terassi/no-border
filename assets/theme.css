@@ -5554,8 +5554,10 @@ select option {
 }
 
 .header .icon--cart {
-  width: 27px;
-  height: 24px;
+  /* width: 27px;
+  height: 24px; */
+  width: initial;
+  height: initial;
 }
 
 .header .icon--search {

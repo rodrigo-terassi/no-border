@@ -5526,6 +5526,8 @@ select option {
 
 .header__search-bar-wrapper {
   flex: 1 0 auto;
+  align-items: center;
+  display: flex;
 }
 
 
@@ -6237,6 +6239,7 @@ select option {
     margin-top: 0;
     padding-bottom: 0;
     min-width: 0;
+    width: 100%;
   }
 
   .search-bar__inner {

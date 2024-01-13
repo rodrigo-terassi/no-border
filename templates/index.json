@@ -176,6 +176,19 @@
         "link_url": ""
       }
     },
+    "6044e0bc-7312-4c46-9400-0db6cfc0dcbe": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "mesas-pedras-preciosas",
+        "title": "Featured collection",
+        "products_count": 12,
+        "layout": "horizontal",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -231,49 +244,6 @@
         "carousel_effect": "fade"
       }
     },
-    "640917ca-c89c-43d2-8beb-c8185f25db3c": {
-      "type": "slideshow",
-      "blocks": {
-        "047d8cee-41a9-4d46-b35e-3044c577d8c1": {
-          "type": "image",
-          "settings": {
-            "show_overlay": false,
-            "overlay_opacity": 30,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "Button",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "047d8cee-41a9-4d46-b35e-3044c577d8c1"
-      ],
-      "settings": {
-        "edge_to_edge": false,
-        "section_size": "preserve_ratio",
-        "carousel_effect": "slide",
-        "autoplay": true,
-        "cycle_speed": 5
-      }
-    },
-    "6044e0bc-7312-4c46-9400-0db6cfc0dcbe": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "mesas-pedras-preciosas",
-        "title": "Featured collection",
-        "products_count": 12,
-        "layout": "horizontal",
-        "stack_products": false,
-        "show_quick_buy": false,
-        "link_title": "View all",
-        "link_url": ""
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "disabled": true,
@@ -305,9 +275,8 @@
     "text_with_icons_FLTWhp",
     "mosaic_GgbdmT",
     "featured-collection",
-    "featured-product",
-    "640917ca-c89c-43d2-8beb-c8185f25db3c",
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe",
+    "featured-product",
     "blog-posts",
     "newsletter"
   ]

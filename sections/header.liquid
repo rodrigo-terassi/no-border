@@ -331,8 +331,9 @@
                   <a href="{{ link.url }}" class="nav-bar__link link" data-type="menuitem">
                     {%- assign menu_icon = collection.metafields.custom.menu_icon -%}
                     
-                    {{ collection.metafields.custom.menu_icon | img_tag }}
                     
+                    {{ collection.metafields.custom.menu_icon | image_url: width: collection.metafields.custom.menu_icon.width | image_tag: widths: '165, 360, 535, 750, 1070, 1500' }}
+                  
                     {%- if menu_icon -%}
                       {{ menu_icon | img_tag }}
                     {%- endif -%}

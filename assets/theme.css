@@ -7221,7 +7221,11 @@ select option {
   .nav-bar__item > .nav-dropdown {
     min-width: calc(100% + 20px);
   }
-
+  
+  .nav-bar__item a img + span {
+      margin-left: 10px;
+  }
+  
   .nav-bar__link {
     display: block;
     cursor: pointer;

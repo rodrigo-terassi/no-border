@@ -5534,8 +5534,16 @@ select option {
   display: flex;
   align-items: center;
   padding: 0 15px;
+  max-width: 180px;
 }
-
+.header__account span,
+.header__help span{
+  line-height: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  max-width: calc(100% - 40px);
+  margin-left: 10px;
+}
 .header .icon--account,
 .header .icon--hamburger,
 .header .icon--hamburger-mobile,

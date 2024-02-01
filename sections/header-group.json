@@ -23,8 +23,8 @@
       ],
       "settings": {
         "enable_sticky_header": true,
-        "logo": "shopify:\/\/shop_images\/no-border-logo.png",
-        "logo_max_width": 95,
+        "logo": "shopify:\/\/shop_images\/no-border-logo-horizontal.png",
+        "logo_max_width": 195,
         "mobile_logo_max_width": 100,
         "show_locale_selector": true,
         "show_country_selector": false,

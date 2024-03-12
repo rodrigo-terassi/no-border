@@ -176,6 +176,36 @@
         "link_url": ""
       }
     },
+    "slideshow_3mXLpm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_TgJnxz": {
+          "type": "image",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_TgJnxz"
+      ],
+      "settings": {
+        "edge_to_edge": false,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe": {
       "type": "featured-collection",
       "settings": {
@@ -232,6 +262,7 @@
         "variant-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "product": "difusor-de-ametista-natural-com-bocal-dourado-ou-prateado-altura-12-cm-peso-1-00-kg",
         "title": "Featured product",
@@ -275,6 +306,7 @@
     "text_with_icons_FLTWhp",
     "mosaic_GgbdmT",
     "featured-collection",
+    "slideshow_3mXLpm",
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe",
     "featured-product",
     "blog-posts",

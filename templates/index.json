@@ -200,13 +200,13 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "porta-copos-agatas",
-        "title": "Featured collection",
+        "collection": "aoves-exclusivos",
+        "title": "AOVES EXCLUSIVOS",
         "products_count": 12,
         "layout": "vertical",
         "stack_products": false,
         "show_quick_buy": false,
-        "link_title": "View all",
+        "link_title": "Ver todos",
         "link_url": ""
       }
     },

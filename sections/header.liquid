@@ -273,6 +273,10 @@
                 <span class="header__action-item-title hidden-pocket hidden-lap">{{ 'header.general.welcome' | t: first_name: customer.first_name | truncate: 20 }}</span>
               {%- else -%}
                 <!-- <span class="header__action-item-title hidden-pocket hidden-lap">{{ 'header.general.login' | t }}</span> -->
+                <div class="header__account">
+                  {%- render 'icon', icon: 'user' -%}
+                  <span>{{ 'header.general.login' | t }}</span>
+                </div>
               {%- endif -%}
 
               <div class="header__action-item-content">
@@ -286,10 +290,7 @@
               </div>
             </div>
 
-            <div class="header__account">
-              {%- render 'icon', icon: 'user' -%}
-              <span>Entre ou cadastre-se</span>
-            </div>
+            
           {%- endif -%}
 
           <div class="header__help">

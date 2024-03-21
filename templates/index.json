@@ -334,6 +334,19 @@
         "background": "#205a54",
         "text": "#ffffff"
       }
+    },
+    "featured_collection_RJidVU": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "title": "Featured collection",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -345,6 +358,7 @@
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe",
     "featured-product",
     "blog-posts",
-    "newsletter"
+    "newsletter",
+    "featured_collection_RJidVU"
   ]
 }

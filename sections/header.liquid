@@ -270,7 +270,12 @@
           {%- if shop.customer_accounts_enabled -%}
             <div class="header__action-item header__action-item--account">
               {%- if customer -%}
-                <span class="header__action-item-title hidden-pocket hidden-lap">{{ 'header.general.welcome' | t: first_name: customer.first_name | truncate: 20 }}</span>
+                {%- render 'icon', icon: 'user' -%}
+                <span>
+                  <a href="{{ routes.account_url }}" class="header__action-item-link hidden-pocket hidden-lap">
+                    {{ 'header.general.welcome' | t: first_name: customer.first_name | truncate: 20 }}
+                  </a>
+                </span>
               {%- else -%}
                 <!-- <span class="header__action-item-title hidden-pocket hidden-lap">{{ 'header.general.login' | t }}</span> -->
                 <div class="header__account">
@@ -285,7 +290,7 @@
 
               <div class="header__action-item-content">
                 <a href="{{ routes.account_url }}" class="header__action-item-link header__account-icon icon-state hidden-desk" aria-label="{{ 'header.general.account' | t }}">
-                  <span class="icon-state__primary">{%- render 'icon', icon: 'account' -%}</span>
+                  <span class="icon-state__primary">{%- render 'icon', icon: 'user' -%}</span>
                 </a>
 
                 

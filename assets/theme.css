@@ -7221,6 +7221,7 @@ select option {
   .nav-bar__linklist{
     display: flex;
     justify-content: space-around;
+    align-items: center;
   }
   .nav-bar__item--static {
     position: static;

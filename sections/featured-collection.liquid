@@ -34,7 +34,7 @@
 
         {%- for product in products limit: section.settings.products_count -%}
           {%- if section.settings.layout == 'vertical' -%}
-            {%- assign products_per_row = section.settings.products_count | at_most: 4 -%}
+            {%- assign products_per_row = section.settings.products_count | at_most: 5 -%}
 
             {%- if section.settings.stack_products -%}
               {%- capture grid_classes -%}1/2 1/4--lap 1/{{ products_per_row | minus: 1 }}--desk 1/{{ products_per_row }}--wide{%- endcapture -%}

@@ -121,7 +121,7 @@
         "item_bptPeG": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mosaic-1_b6bd652e-0dd5-4700-b057-f5fceb25cd2d.png",
+            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-01.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -138,7 +138,7 @@
         "item_J7a6Pt": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mosaic-2_cd16a1be-f1e7-4617-a17e-f07e0807e565.png",
+            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-02.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -155,7 +155,7 @@
         "item_GetDnz": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mosaic-3.png",
+            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-03.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -172,7 +172,7 @@
         "item_TVEzLx": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mosaic-4.png",
+            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-04.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",

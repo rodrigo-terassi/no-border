@@ -5540,7 +5540,6 @@ select option {
   line-height: 15px;
   font-size: 15px;
   font-weight: 600;
-  max-width: calc(100% - 40px);
   margin-left: 10px;
 }
 .header .icon--account,

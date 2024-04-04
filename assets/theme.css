@@ -6771,7 +6771,9 @@ select option {
 .mosaic--large .mosaic__item > :first-child {
   min-height: 280px;
 }
-
+.mosaic__banner-3-4 .mosaic__item{
+  width: 50%;
+}
 @media screen and (max-width: 999px) {
   /* On mobile we increase the height of some elements (so that elements that appear bigger on desktop also appear bigger on mobile */
   .mosaic--two-columns .mosaic__column:first-child .mosaic__item > :first-child,

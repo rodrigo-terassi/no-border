@@ -28,14 +28,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "subheading": "<p>Inscreva-se e receba as novidades do MVSHOP<\/p>"
-          }
-        },
-        "370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3": {
-          "type": "text",
-          "settings": {
-            "title": "Todos os direitos reservados",
-            "content": "<p>Mundo Verde Com e Serv de Produtos Socioambientais Ltda.<\/p>"
+            "subheading": "<p>Inscreva-se e receba as novidades em primeira mão<\/p>"
           }
         },
         "f9be9eb0-c188-4753-b64e-3de2cfe110f3": {
@@ -55,7 +48,6 @@
         "8b59c01d-53c0-487d-81d4-5952184ee903",
         "dcb1aeee-35c7-4a8b-83fb-020b58f6da4a",
         "footer-2",
-        "370e2a6c-e20d-4ff5-9fb7-8a50f5449bd3",
         "f9be9eb0-c188-4753-b64e-3de2cfe110f3",
         "7bbddf65-9044-47fe-87ee-5f971d013620"
       ],

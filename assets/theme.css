@@ -5839,8 +5839,7 @@ select option {
 }
 @media screen and (max-width: 999px) {
   .text-with-icons__icon-wrapper{
-    margin: 0;
-    margin-right: 10px;
+    margin: 0 10px 0 0 !important;
   }
 }
 

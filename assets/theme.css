@@ -5837,7 +5837,7 @@ select option {
     padding-left: 9px;
   }
 }
-@media screen and (min-width: 1000px) and (max-width: 999px) {
+@media screen and (max-width: 999px) {
   .text-with-icons__icon-wrapper{
     margin: 0;
     margin-right: 10px;

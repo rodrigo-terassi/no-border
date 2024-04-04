@@ -13819,3 +13819,9 @@ shopify-payment-terms {
     min-width: 0;
   }
 }
+
+@media all and (max-width: 575px){
+  section.section[data-section-type="mosaic"] .container{
+    padding: 0;
+  }
+}

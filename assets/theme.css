@@ -5842,13 +5842,6 @@ select option {
   align-items: center;
 }
 @media screen and (min-width: 1280px) {
-  .header__action-item {
-    padding: 0 35px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-  }
-
   .header__action-item:last-child {
     padding-right: 0;
   }

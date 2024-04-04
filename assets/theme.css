@@ -5861,6 +5861,9 @@ select option {
   .header__account, .header__help{
     padding: 0;
   }
+  header__action-item--cart{
+    width: 110px;
+  }
 }
 
 /**

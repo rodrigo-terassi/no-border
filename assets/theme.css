@@ -5857,6 +5857,11 @@ select option {
     top: -1px; /* Slight adjustment for the pixel perfect muahah */
   }
 }
+@media all and (max-width: 1279px) {
+  .header__account, .header__help{
+    padding: 0;
+  }
+}
 
 /**
  * --------------------------------------------------------------------

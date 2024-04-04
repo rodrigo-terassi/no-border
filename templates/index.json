@@ -125,7 +125,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/mini-banner-mosaico-01.jpg",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
@@ -142,7 +142,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/mini-banner-mosaico-02.jpg",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
@@ -159,7 +159,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/mini-banner-mosaico-03.jpg",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
@@ -176,7 +176,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/mini-banner-mosaico-04.jpg",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",

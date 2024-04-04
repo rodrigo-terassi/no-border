@@ -5834,11 +5834,6 @@ select option {
   .header__action-item--currency + .header__action-item--locale {
     padding-left: 9px;
   }
-
-  /* Not really beautiful but coulnd't find a better way */
-  .header__action-item.hidden-tablet-and-up:first-child + .header__action-item {
-    padding-left: 35px;
-  }
 }
 
 @media screen and (min-width: 1280px) {

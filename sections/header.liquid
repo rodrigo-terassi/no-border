@@ -653,6 +653,7 @@
 {% endschema %}
 
 <script>
-  var referrer = document.referrer;
-  console.log('Referenciador:', referrer);
+  var parametrosURL = new URLSearchParams(window.location.search);
+  var origem = parametrosURL.get('origem');
+  console.log('Origem:', origem);
 </script>

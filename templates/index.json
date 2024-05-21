@@ -248,7 +248,7 @@
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe": {
       "type": "featured-collection",
       "settings": {
-        "collection": "mesas-pedras-preciosas",
+        "collection": "aoves-exclusivos",
         "title": "Featured collection",
         "products_count": 12,
         "layout": "horizontal",
@@ -342,7 +342,7 @@
     "featured_collection_RJidVU": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "aoves-exclusivos",
         "title": "Featured collection",
         "products_count": 12,
         "layout": "vertical",

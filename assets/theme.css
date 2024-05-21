@@ -5221,8 +5221,18 @@ select option {
   border-top: var(--footer-border);
   background-color: var(--footer-background-color);
   color: var(--footer-body-text-color);
+  position: relative;
 }
-
+.footer:before{
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  height: 54px;
+  background: url(https://images.tcdn.com.br/files/802298/themes/94/img/admake/bg_footer.png) repeat-x left;
+}
 .footer a:hover {
   color: var(--footer-accent-color);
 }

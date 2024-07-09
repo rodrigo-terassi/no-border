@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "heading_color": "#222222",
@@ -62,7 +71,7 @@
     "favicon": "shopify:\/\/shop_images\/no-border-favicon.png",
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/no-border-logo-horizontal.png",
-    "checkout_logo_position": "left",
+    "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
     "checkout_body_background_color": "#f4f8ee",

@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.accent_color }}">
-
+    <meta name="facebook-domain-verification" content="2k6az9dqc68uw1bn1w73srx6e372ii" />
+    
     {%- capture seo_page_title -%}
       {%- if request.page_type == 'search' and search.terms != blank -%}
         {{ search.terms | split: ' AND ' | last | split: 'product_type:' | last }} - {{ shop.name }}

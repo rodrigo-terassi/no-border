@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "footer",
   "name": "Footer group",
@@ -9,6 +18,12 @@
           "type": "links",
           "settings": {
             "menu": "main-menu"
+          }
+        },
+        "links_4FyH4A": {
+          "type": "links",
+          "settings": {
+            "menu": "institucional"
           }
         },
         "8b59c01d-53c0-487d-81d4-5952184ee903": {
@@ -45,6 +60,7 @@
       },
       "block_order": [
         "05b7ad9d-44e3-4bf4-820b-9aef887992c6",
+        "links_4FyH4A",
         "8b59c01d-53c0-487d-81d4-5952184ee903",
         "dcb1aeee-35c7-4a8b-83fb-020b58f6da4a",
         "footer-2",

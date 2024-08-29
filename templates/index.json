@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -213,6 +222,60 @@
         "link_url": ""
       }
     },
+    "featured_product_kDawEM": {
+      "type": "featured-product",
+      "blocks": {
+        "product_meta_8mxtKJ": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
+          }
+        },
+        "featured_description_NY8kwX": {
+          "type": "featured_description",
+          "settings": {
+          }
+        },
+        "variant_selector_BkmGGU": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": false,
+            "show_inventory_quantity": false,
+            "low_inventory_threshold": 0
+          }
+        },
+        "buy_buttons_3i6e3X": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "product_meta_8mxtKJ",
+        "featured_description_NY8kwX",
+        "variant_selector_BkmGGU",
+        "buy_buttons_3i6e3X"
+      ],
+      "settings": {
+        "product": "aove-la-cartujana",
+        "title": "Featured product",
+        "link_title": "View details",
+        "link_url": "",
+        "image_size": "small",
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
+      }
+    },
     "slideshow_3mXLpm": {
       "type": "slideshow",
       "blocks": {
@@ -358,6 +421,7 @@
     "text_with_icons_FLTWhp",
     "mosaic_GgbdmT",
     "featured-collection",
+    "featured_product_kDawEM",
     "slideshow_3mXLpm",
     "6044e0bc-7312-4c46-9400-0db6cfc0dcbe",
     "featured-product",

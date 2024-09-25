@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/full-banner-desktop-01.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/FULL_mobile-01.jpg",
+            "image": "shopify://shop_images/full-banner-desktop-01.jpg",
+            "mobile_image": "shopify://shop_images/FULL_mobile-01.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -25,15 +25,15 @@
             "content_position": "middle_center",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "Button",
-            "link": ""
+            "button_text": "",
+            "link": "/collections/aoves-exclusivos"
           }
         },
         "image_CerkQw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/full-banner-desktop-02.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/FULL_mobile-02.jpg",
+            "image": "shopify://shop_images/full-banner-desktop-02.jpg",
+            "mobile_image": "shopify://shop_images/FULL_mobile-02.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -49,8 +49,8 @@
         "image_33e4Tn": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/full-banner-desktop-03.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/FULL_mobile-03.jpg",
+            "image": "shopify://shop_images/full-banner-desktop-03.jpg",
+            "mobile_image": "shopify://shop_images/FULL_mobile-03.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -84,36 +84,36 @@
           "type": "item",
           "settings": {
             "icon": "bi-delivery",
-            "custom_icon": "shopify:\/\/shop_images\/frete-gratis.png",
+            "custom_icon": "shopify://shop_images/frete-gratis.png",
             "title": "Frete Grátis",
-            "content": "<p>para todo brasil • acima de R$ 500,00<\/p>"
+            "content": "<p>para todo brasil • acima de R$ 500,00</p>"
           }
         },
         "item_qrNQwn": {
           "type": "item",
           "settings": {
             "icon": "bi-returns",
-            "custom_icon": "shopify:\/\/shop_images\/PIX.png",
+            "custom_icon": "shopify://shop_images/PIX.png",
             "title": "5% de desconto",
-            "content": "<p>para pagamento via PIX<\/p>"
+            "content": "<p>para pagamento via PIX</p>"
           }
         },
         "item_bVVPE8": {
           "type": "item",
           "settings": {
             "icon": "bi-customer-support",
-            "custom_icon": "shopify:\/\/shop_images\/cartao.png",
+            "custom_icon": "shopify://shop_images/cartao.png",
             "title": "Pague em até 3x",
-            "content": "<p>sem juros nos cartões de crédito, com parcela mínima de R$ 150<\/p>"
+            "content": "<p>sem juros nos cartões de crédito, com parcela mínima de R$ 150</p>"
           }
         },
         "item_UPJUr3": {
           "type": "item",
           "settings": {
             "icon": "bi-secure-payment",
-            "custom_icon": "shopify:\/\/shop_images\/calendar.png",
+            "custom_icon": "shopify://shop_images/calendar.png",
             "title": "Troque em até 7 dias*",
-            "content": "<p>7 (sete) dias corridos contados do recebimento da mercadoria<\/p>"
+            "content": "<p>7 (sete) dias corridos contados do recebimento da mercadoria</p>"
           }
         }
       },
@@ -133,7 +133,7 @@
         "item_bptPeG": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-01.jpg",
+            "image": "shopify://shop_images/mini-banner-mosaico-01.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -150,7 +150,7 @@
         "item_J7a6Pt": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-02.jpg",
+            "image": "shopify://shop_images/mini-banner-mosaico-02.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -167,7 +167,7 @@
         "item_GetDnz": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-03.jpg",
+            "image": "shopify://shop_images/mini-banner-mosaico-03.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -184,7 +184,7 @@
         "item_TVEzLx": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mini-banner-mosaico-04.jpg",
+            "image": "shopify://shop_images/mini-banner-mosaico-04.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -282,8 +282,8 @@
         "image_TgJnxz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-half-desktop.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/MINI_BANNER_MOBILE_Prancheta_1.jpg",
+            "image": "shopify://shop_images/banner-half-desktop.jpg",
+            "mobile_image": "shopify://shop_images/MINI_BANNER_MOBILE_Prancheta_1.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -397,7 +397,7 @@
       "disabled": true,
       "settings": {
         "title": "Newsletter",
-        "content": "<p>Inscreva-se e receba as novidades da MVSHOP<\/p>",
+        "content": "<p>Inscreva-se e receba as novidades da MVSHOP</p>",
         "background": "#205a54",
         "text": "#ffffff"
       }

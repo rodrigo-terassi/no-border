@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "header",
   "name": "Header group",
@@ -13,7 +22,7 @@
         "show_newsletter": false,
         "newsletter_button": "Subscribe & Save",
         "newsletter_title": "Newsletter",
-        "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+        "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
       }
     },
     "header": {
@@ -22,8 +31,8 @@
 
       ],
       "settings": {
-        "enable_sticky_header": true,
-        "logo": "shopify:\/\/shop_images\/no-border-logo-horizontal.png",
+        "enable_sticky_header": false,
+        "logo": "shopify://shop_images/no-border-logo-horizontal.png",
         "logo_max_width": 215,
         "mobile_logo_max_width": 100,
         "show_locale_selector": true,
